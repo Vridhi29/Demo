@@ -1,0 +1,10 @@
+X=10
+Y=5
+Add=X+Y
+Sub=X-Y
+Mul=X*Y
+Div=X/Y
+print(Add)
+print(Sub)
+print(Mul)
+print(Div)
