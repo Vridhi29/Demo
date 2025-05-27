@@ -1,0 +1,17 @@
+print("Hello World")
+print("HELLO"+" "+"WORLD")
+print("Hello "+" World")
+print("Hello"+" World")
+print("\n")
+print("hello world \nhello world \nhello world")
+print("\n")
+# this line of code will take an input using the input() function
+print("Hello "+ input("What is your name?")+"!")  
+print("\n")
+name = input("What is your name?")
+print (name)
+name = "selena"
+print (name)
+print(len(name))
+print("\n")
+print(len(input("What is yor name?")))
